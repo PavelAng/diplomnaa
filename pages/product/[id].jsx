@@ -50,7 +50,7 @@ const Product = ({ product1 }) => {
         <h1 className={styles.title}>{product1.title}</h1>
         <span className={styles.price}>${price}</span>
         <p className={styles.desc}>{product1.desc}</p>
-        <h2 classname={styles.manufacturer}>Manufacturer: {product1.manufacturer}</h2>
+        <h2 className={styles.manufacturer}>Manufacturer: {product1.manufacturer}</h2>
         <h3 className={styles.choose}>Choose the size</h3>
         <div className={styles.sizes}>
           <div className={styles.size} onClick={() => handleSize(0)}>
