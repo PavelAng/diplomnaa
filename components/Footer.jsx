@@ -10,34 +10,34 @@ const Footer = () => {
       <div className={styles.item}>
         <div className={styles.card}>
           <h2 className={styles.motto}>
-            DIPLOMNATA MI RABOTA
+            DIPLOMNA RABOTA
           </h2>
         </div>
         <div className={styles.card}>
-          <h1 className={styles.title}>NAMERI NI AKO IMAME ADRES</h1>
+          <h1 className={styles.title}>NAMERI NI NA ADRES</h1>
           <p className={styles.text}>
             Primeren adres
             <br /> Ruse 7004
             <br /> +359 876 666 666
           </p>
           <p className={styles.text}>
-            Drug primeren adres, moje i da nqma
-            <br /> Varna, ne znam poshtenskiq kod
-            <br /> +359 sushtiq nomer
+            Drug primeren adres
+            <br /> Varna
+            <br /> +359 876 777 777
           </p>
           <p className={styles.text}>
             Ohste edin primeren adres
             <br /> Plovdiv
-            <br /> 089666666
+            <br /> 089655433
           </p>
           <p className={styles.text}>
-            posleden primeren adres obeshtavam
+            posleden primeren adres 
             <br /> Sofiq
-            <br /> 666666666
+            <br /> +3598743432
           </p>
         </div>
         <div className={styles.card}>
-          <h1 className={styles.title}>Rabotno vreme ako ima</h1>
+          <h1 className={styles.title}>Rabotno vreme</h1>
           <p className={styles.text}>
             Ponedelnik do Petuk
             <br /> 9:00 – 22:00
